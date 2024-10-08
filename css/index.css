@@ -1,0 +1,1805 @@
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-width: 1226px;
+  position: relative;
+}
+
+.index .header {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--text-grey);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  height: 124px;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-26 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.index .frame-48 {
+  cursor: pointer;
+  position: relative;
+  width: 171px;
+}
+
+.index .menu {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 29px;
+  position: relative;
+}
+
+.index .link {
+  color: var(--primary);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .banner-section {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../img/banner-section.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 736px;
+  padding: 117px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-25 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  height: 343px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .nourish-from-within {
+  color: transparent;
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.index .span0 {
+  color: var(--secondary);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  letter-spacing: 0.50px;
+}
+
+.index .span {
+  letter-spacing: 0.50px;
+}
+
+.index .choices-that-fuel-both-body-and-mind {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.index .about {
+  background-color: var(--white);
+  gap: 48px;
+}
+
+.index .frame-45 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .about-us {
+  gap: 53px;
+}
+
+.index .about-nine-life {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .at-nine-life-were-r {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.index .categories-of-product {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-47 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-28 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.index .live-healthier-happier {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .browse-top-picks-in {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.index .frame-4-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 89px;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .frame-4-item {
+  align-items: center;
+  flex-direction: column;
+  height: 224px;
+  justify-content: space-between;
+  width: 168px;
+}
+
+.index .food-grocery {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .ellipse-2 {
+  border-radius: 75px;
+  height: 150px;
+  width: 150px;
+}
+
+.index .mask-group {
+  height: 69px;
+  left: 50px;
+  position: absolute;
+  top: 115px;
+  width: 69px;
+}
+
+.index .baby-child-care {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .mask-group-1 {
+  height: 77px;
+  left: 46px;
+  position: absolute;
+  top: 111px;
+  width: 77px;
+}
+
+.index .supplements {
+  height: 54px;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 168px;
+}
+
+.index .health-care {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .mask-group-2 {
+  height: 60px;
+  left: 54px;
+  position: absolute;
+  top: 119px;
+  width: 60px;
+}
+
+.index .vitamins {
+  align-self: stretch;
+  height: 54px;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .mask-group-3 {
+  height: 70px;
+  left: 49px;
+  position: absolute;
+  top: 114px;
+  width: 70px;
+}
+
+.index .personal-care {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .mask-group-4 {
+  height: 68px;
+  left: 48px;
+  position: absolute;
+  top: 115px;
+  width: 72px;
+}
+
+.index .baby-food {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 226.47px;
+  justify-content: space-between;
+  position: relative;
+  width: 150px;
+}
+
+.index .sports-nutrition {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .ellipse-28 {
+  align-self: stretch;
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  width: 100%;
+}
+
+.index .mask-group-5 {
+  height: 69px;
+  left: 44px;
+  position: absolute;
+  top: 117px;
+  width: 69px;
+}
+
+.index .green-band {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--primary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-46 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .explore-nine-life-for {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .contact-us {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.index .email-section {
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  padding: 46px 0px;
+  width: 100%;
+}
+
+.index .frame-50 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.index .contact-us-get-in-touch {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .span0-1 {
+  letter-spacing: 0.46px;
+}
+
+.index .span1 {
+  color: var(--primary);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0.46px;
+}
+
+.index .email-button {
+  border: 1px solid;
+  border-color: var(--secondary);
+  border-radius: 34px;
+  display: inline-flex;
+  gap: 12px;
+  padding: 15px 33px;
+}
+
+.index .mask-group-6 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.index .infoninelifecom {
+  color: var(--primary);
+  font-weight: 500;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.index .addresses {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-29 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 27px;
+  justify-content: center;
+  padding: 53px 80px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 241px;
+}
+
+.index .address {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .hygeia-building-rea {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .name {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .f-135136-kailas-va {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .x2301-bayfield-build {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-32 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.index .group-13 {
+  height: 56.55px;
+  position: relative;
+  width: 171px;
+}
+
+.index .x2024-nine-life-all-rights-reserved {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.index .about-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.index .ellipse {
+  background-color: var(--light-green-2);
+  position: relative;
+}
+
+.index .email {
+  align-items: center;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.index .frame-4-2 {
+  display: flex;
+  position: relative;
+}
+
+.index .place-3 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+/* screen - nlu95desk-responsive-2 */
+
+.nlu95desk-responsive-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-width: 375px;
+  position: relative;
+}
+
+.nlu95desk-responsive-2 .header1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .frame {
+  cursor: pointer;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.nlu95desk-responsive-2 .menu-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  gap: 20px;
+  height: 42px;
+  justify-content: center;
+  padding: 6px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .link-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nlu95desk-responsive-2 .banner-section-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../img/banner-section-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 736px;
+  padding: 55px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .frame-25-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 343px;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .nourish-from-within-1 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0.80px;
+  line-height: 52px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.nlu95desk-responsive-2 .span0-3 {
+  color: var(--secondary);
+  letter-spacing: 0.32px;
+}
+
+.nlu95desk-responsive-2 .span1-1 {
+  letter-spacing: 0.32px;
+}
+
+.nlu95desk-responsive-2 .choices-that-fuel-both-body-and-mind-1 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.nlu95desk-responsive-2 .about1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .frame-45-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 80px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .about-us-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 53px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .about-nine-life-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 55px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-2 .at-nine-life-were-r-1 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.nlu95desk-responsive-2 .categories-of-product1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .frame-47-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  padding: 100px 36px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .frame-28-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .live-healthier-happier-1 {
+  align-self: stretch;
+  letter-spacing: 0.80px;
+  line-height: 55px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-2 .browse-top-picks-in-1 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-2 .frame-4-3 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 40px 20px;
+  justify-content: center;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .frame-4-item-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 188px;
+  justify-content: space-between;
+  position: relative;
+  width: 140px;
+}
+
+.nlu95desk-responsive-2 .food-grocery-1 {
+  align-self: stretch;
+  letter-spacing: 0.40px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-2 .ellipse-2-1 {
+  background-color: var(--light-green-2);
+  border-radius: 60px;
+  height: 120px;
+  position: relative;
+  width: 120px;
+}
+
+.nlu95desk-responsive-2 .mask-group-8 {
+  height: 53px;
+  left: 44px;
+  position: absolute;
+  top: 102px;
+  width: 53px;
+}
+
+.nlu95desk-responsive-2 .baby-child-care-1 {
+  align-self: stretch;
+  letter-spacing: 0.40px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-2 .mask-group-9 {
+  height: 63px;
+  left: 38px;
+  position: absolute;
+  top: 97px;
+  width: 63px;
+}
+
+.nlu95desk-responsive-2 .supplements-1 {
+  height: 51px;
+  letter-spacing: 0.40px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 140px;
+}
+
+.nlu95desk-responsive-2 .mask-group-10 {
+  height: 59px;
+  left: 40px;
+  position: absolute;
+  top: 99px;
+  width: 59px;
+}
+
+.nlu95desk-responsive-2 .health-care-1 {
+  align-self: stretch;
+  letter-spacing: 0.40px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-2 .mask-group-7 {
+  height: 54px;
+  left: 42px;
+  position: absolute;
+  top: 101px;
+  width: 54px;
+}
+
+.nlu95desk-responsive-2 .vitamins-1 {
+  align-self: stretch;
+  height: 51px;
+  letter-spacing: 0.40px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-2 .personal-care-1 {
+  align-self: stretch;
+  letter-spacing: 0.40px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-2 .mask-group-11 {
+  height: 54px;
+  left: 42px;
+  position: absolute;
+  top: 101px;
+  width: 57px;
+}
+
+.nlu95desk-responsive-2 .sports-nutrition-1 {
+  align-self: stretch;
+  letter-spacing: 0.40px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-2 .mask-group-12 {
+  height: 55px;
+  left: 42px;
+  position: absolute;
+  top: 100px;
+  width: 55px;
+}
+
+.nlu95desk-responsive-2 .green-band-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--primary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .frame-46-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .explore-nine-life-for-1 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-2 .contact-us1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .email-section-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 46px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .frame-50-1 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.nlu95desk-responsive-2 .contact-us-get-in-touch-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-2 .email-button-1 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--secondary);
+  border-radius: 34px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  padding: 15px 33px;
+  position: relative;
+}
+
+.nlu95desk-responsive-2 .mask-group-13 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.nlu95desk-responsive-2 .infoninelifecom-1 {
+  color: var(--primary);
+  font-weight: 500;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.nlu95desk-responsive-2 .addresses-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .frame-29-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 27px;
+  justify-content: center;
+  padding: 53px 40px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .frame-4-2 {
+  flex-direction: column;
+  gap: 4px;
+  width: 241px;
+}
+
+.nlu95desk-responsive-2 .address-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nlu95desk-responsive-2 .hygeia-building-rea-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nlu95desk-responsive-2 .name-1 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.nlu95desk-responsive-2 .f-135136-kailas-va-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nlu95desk-responsive-2 .x2301-bayfield-build-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nlu95desk-responsive-2 .footer-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 289px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-2 .x2024-nine-life-all-rights-reserved-1 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-2 .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+/* screen - nlu95desk-responsive-3 */
+
+.nlu95desk-responsive-3 {
+  align-items: flex-start;
+  flex-direction: column;
+  min-width: 964px;
+}
+
+.nlu95desk-responsive-3 .header2 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--text-grey);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  height: 124px;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .frame-26-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.nlu95desk-responsive-3 .frame-48-1 {
+  cursor: pointer;
+  position: relative;
+  width: 171px;
+}
+
+.nlu95desk-responsive-3 .menu-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 29px;
+  position: relative;
+}
+
+.nlu95desk-responsive-3 .link-2 {
+  color: var(--primary);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nlu95desk-responsive-3 .banner-section-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 736px;
+  padding: 77px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .frame-25-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  height: 343px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .nourish-from-within-2 {
+  color: transparent;
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.nlu95desk-responsive-3 .span0-4 {
+  color: var(--secondary);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  letter-spacing: 0.50px;
+}
+
+.nlu95desk-responsive-3 .span-2 {
+  letter-spacing: 0.50px;
+}
+
+.nlu95desk-responsive-3 .choices-that-fuel-both-body-and-mind-2 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.nlu95desk-responsive-3 .about2 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .frame-45-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .about-us-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 53px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .about-nine-life-2 {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-3 .at-nine-life-were-r-2 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.nlu95desk-responsive-3 .categories-of-product2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .frame-47-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .frame-28-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .live-healthier-happier-2 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-3 .browse-top-picks-in-2 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-3 .frame-4-5 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 89px;
+  justify-content: center;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .frame-4-item-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 224px;
+  justify-content: space-between;
+  position: relative;
+  width: 168px;
+}
+
+.nlu95desk-responsive-3 .food-grocery-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-3 .ellipse-2-2 {
+  background-color: var(--light-green-2);
+  border-radius: 75px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.nlu95desk-responsive-3 .mask-group-14 {
+  height: 69px;
+  left: 50px;
+  position: absolute;
+  top: 115px;
+  width: 69px;
+}
+
+.nlu95desk-responsive-3 .baby-child-care-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-3 .mask-group-15 {
+  height: 77px;
+  left: 46px;
+  position: absolute;
+  top: 111px;
+  width: 77px;
+}
+
+.nlu95desk-responsive-3 .supplements-2 {
+  height: 54px;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 168px;
+}
+
+.nlu95desk-responsive-3 .health-care-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-3 .mask-group-16 {
+  height: 60px;
+  left: 54px;
+  position: absolute;
+  top: 119px;
+  width: 60px;
+}
+
+.nlu95desk-responsive-3 .vitamins-2 {
+  align-self: stretch;
+  height: 54px;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-3 .mask-group-17 {
+  height: 70px;
+  left: 49px;
+  position: absolute;
+  top: 114px;
+  width: 70px;
+}
+
+.nlu95desk-responsive-3 .personal-care-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-3 .mask-group-18 {
+  height: 68px;
+  left: 48px;
+  position: absolute;
+  top: 115px;
+  width: 72px;
+}
+
+.nlu95desk-responsive-3 .baby-food-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 226.47px;
+  justify-content: space-between;
+  position: relative;
+  width: 150px;
+}
+
+.nlu95desk-responsive-3 .sports-nutrition-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-3 .ellipse-28-1 {
+  align-self: stretch;
+  background-color: var(--light-green-2);
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .mask-group-19 {
+  height: 69px;
+  left: 44px;
+  position: absolute;
+  top: 117px;
+  width: 69px;
+}
+
+.nlu95desk-responsive-3 .green-band-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--primary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .frame-46-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .explore-nine-life-for-2 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-3 .contact-us2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .email-section-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 46px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .frame-50-2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.nlu95desk-responsive-3 .contact-us-get-in-touch-2 {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive-3 .span0-5 {
+  letter-spacing: 0.46px;
+}
+
+.nlu95desk-responsive-3 .span1-2 {
+  color: var(--primary);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0.46px;
+}
+
+.nlu95desk-responsive-3 .email-button-2 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--secondary);
+  border-radius: 34px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  padding: 15px 33px;
+  position: relative;
+}
+
+.nlu95desk-responsive-3 .mask-group-20 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.nlu95desk-responsive-3 .infoninelifecom-2 {
+  color: var(--primary);
+  font-weight: 500;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.nlu95desk-responsive-3 .addresses-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .frame-29-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 27px;
+  justify-content: center;
+  padding: 53px 100px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .frame-4-4 {
+  flex-direction: column;
+  gap: 4px;
+  width: 241px;
+}
+
+.nlu95desk-responsive-3 .address-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nlu95desk-responsive-3 .hygeia-building-rea-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nlu95desk-responsive-3 .name-2 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.nlu95desk-responsive-3 .f-135136-kailas-va-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nlu95desk-responsive-3 .x2301-bayfield-build-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nlu95desk-responsive-3 .footer-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.nlu95desk-responsive-3 .frame-32-1 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.nlu95desk-responsive-3 .group-13-1 {
+  height: 56.55px;
+  position: relative;
+  width: 171px;
+}
+
+.nlu95desk-responsive-3 .x2024-nine-life-all-rights-reserved-2 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.nlu95desk-responsive {
+  background-color: var(--white);
+  display: flex;
+  position: relative;
+}
+
+.nlu95desk-responsive-3 .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+@media screen and (max-width: 963px) {
+  .screen.index { 
+    display: none;
+   }
+  .screen.nlu95desk-responsive-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 964px) and (max-width: 1225px) {
+  .screen.index { 
+    display: none;
+   }
+  .screen.nlu95desk-responsive-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1226px) {
+  .screen.nlu95desk-responsive-2 { 
+    display: none;
+   }
+  .screen.nlu95desk-responsive-3 { 
+    display: none;
+   }
+}
